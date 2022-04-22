@@ -17,7 +17,7 @@ Azure Static Web Apps is a service that automatically builds and deploys full st
 
 Here you can see the clone:https://gentle-cliff-0126e2710.1.azurestaticapps.net
 
-Project demo:
+Project demo:https://youtu.be/aKUHT9UsuGw
 
 ![Screenshot (38)](https://user-images.githubusercontent.com/91664911/164652302-bfd5b614-467c-4c45-80ff-3db32a3a21f7.png)
 
